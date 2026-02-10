@@ -27,4 +27,4 @@ and performance-driven systems.
 
 ## 📫 Connect with me
 - GitHub: https://github.com/kartiksurashe20
-- LinkedIn: add your link here
+- LinkedIn: add your link here.
