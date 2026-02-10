@@ -1,16 +1,30 @@
-## Hi there 👋
+# 🚀 Kartik Surashe
+### Engineering Excellence in Full-Stack Java Development
 
-<!--
-**kartiksurashe20/kartiksurashe20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Engineering is the art of directing the great sources of power in nature for the use and convenience of man."  
+> — *Sir M. Visvesvaraya*
 
-Here are some ideas to get you started:
+Welcome to **VisvesvarayaCode**, a space dedicated to building  
+**enterprise-ready Java applications**, scalable backend architectures,  
+and performance-driven systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Frontend Technologies
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## ⚙️ Backend Technologies
+- Java
+- Spring Boot
+- MySQL
+- REST APIs
+
+---
+
+## 📫 Connect with me
+- GitHub: https://github.com/kartiksurashe20
+- LinkedIn: add your link here
